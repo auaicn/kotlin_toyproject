@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/going_ponyo_background"/>
+    <foreground android:drawable="@mipmap/going_ponyo_foreground"/>
+</adaptive-icon>
